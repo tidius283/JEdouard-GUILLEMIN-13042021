@@ -1,0 +1,9 @@
+body {
+  font-family: raleway;
+  color: #0065fc;
+  background-color: #f2f2f2;
+}
+#conteneur {
+  display: flex;
+  justify-content: right;
+}
